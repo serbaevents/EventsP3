@@ -1,0 +1,33 @@
+{
+    "greeting":"WELCOME",
+    "deskripsi":"Halaman ini merupakan Penjelasan serta Proposal dari Proyek 3 yang akan kami lakukan.",
+    "about":"About",
+    "isiabou":"Kami adalah tim bersemangat dan inovatif yang ingin merubah cara merencanakan kunjungan ke acara favorit customer. Proyek kami, 'Website Tiket Event & Penyewaan Kendaraan' adalah upaya besar untuk menciptakan platform online yang akan memudahkan untuk menemukan, membandingkan, dan membeli tiket event serta menyewa kendaraan untuk pergi ke event yang dituju.",
+    "desap":"Deskripsi Aplikasi",
+    "isidesap":"'Event Hub' adalah sebuah platform daring yang dirancang untuk memfasilitasi pengelolaan acara dan memungkinkan peserta untuk menemukan, mendaftar, dan berpartisipasi dalam berbagai acara. Situs web ini akan memberikan pengalaman pengguna yang intuitif, mulai dari pencarian acara hingga pendaftaran, memungkinkan penyelenggara acara untuk membuat acara mereka sendiri dan mengelola peserta dengan mudah.",
+    "team": [
+      {
+        "name1": "Shahieza Alfadia Shauqie",
+        "npm1": "1214010",
+        "email1": "shahiezasauki15@gmail.com",
+        "github1": "https://github.com/xshazks"
+      },
+      {
+        "name2": "Nizar Abdul Kholiq",
+        "npm2": "1214061",
+        "email2": "",
+        "github2": "https://github.com/nizarabdulkholiq"
+      }
+    ],
+  
+    "isiProposal": {
+      "judulProposal": "",
+      "deskripsi1": "",
+      "latarBelakang1": "",
+      "latarBelakang2": "",
+      "latarBelakang3": "",
+      "latarBelakang4": "",
+      "waktuPelaksanakan": "",
+      "kesimpulan": ""
+    }
+  }
