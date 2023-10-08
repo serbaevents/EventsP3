@@ -12,10 +12,10 @@ setInner("tujuan", data.isi.tujuan);
 setInner("jdllingkup", data.isi.jdllingkup);
 setInner("isilingkup", data.isi.isilingkup);
 
-setInner("namasaw", data.owner.namasaw);
-setInner("npmsaw", data.owner.npmsaw);
-setInner("namazar", data.owner.namazar);
-setInner("npmzar", data.owner.npmzar);
+setInner("jdlkesimpulan", data.isi.jdlkesimpulan);
+setInner("kesimpulan1", data.isi.kesimpulan1);
+setInner("kesimpulan2", data.isi.kesimpulan2);
+
 
 
 
